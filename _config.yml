@@ -1,6 +1,7 @@
 title: Santhosh Kumari Kage
 logo: /assets/img/logo.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://github.com/skkage">GitHub</a>
 theme: jekyll-theme-minimal
